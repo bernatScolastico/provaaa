@@ -1,2 +1,3 @@
 ciao sono bernat (locale)
 fatto da github
+ciao (locale) 2.0
